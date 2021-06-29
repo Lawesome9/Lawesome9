@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Lawesome9
 - 👀 I’m interested in ... computer stuff
-- 🌱 I’m currently learning ... basics to computer programming
+- 🌱 I’m currently learning ... computer programming
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... lawrence@tiswell.com
 
